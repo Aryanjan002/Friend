@@ -8,4 +8,6 @@
 # git clone https://github.com/Aryanjan002/Friend
 # cd Friend
 # python2 Aryanhacker.py 
+# Username Aryan 
+# password Hacker 
 # join my telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
